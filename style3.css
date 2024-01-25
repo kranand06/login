@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Allan&family=Dosis:wght@300&family=Grape+Nuts&family=Rubik+Burned&display=swap');
+@import url(https://i.pinimg.com/1200x/ed/89/df/ed89df57f8aecc3fcdd12521d5348b0f.jpg);
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Single+Day&display=swap');
+ body{
+background-image: linear-gradient( 315deg,  rgba(40,91,212,0.73), rgba(171,53,163,0.45), rgba(255,204,112,0.37));
+background-size: 100% 200%;
+
+}
+.logti{
+    background-color: rgba(255, 255, 255,0.7);
+    box-sizing: border-box;
+    max-width: 400px;
+    padding: 50px;
+    border-radius: 40px;
+    margin: auto ;
+    text-align: center;
+    font-family: Grape Nuts, sans-serif;
+    border: 2px solid #F8DFD4;
+    height: 590px;
+}
+#log{
+    font-family: Single day, sans-serif;
+    font-size:xxx-large;
+}
+#rsl{
+    font-family:Dosis,sans-serif;
+    padding: 0px;
+}
+.usipt{
+    width: 40%;
+    border-radius: 15px;
+    background-color: #FFEBD8;
+    border: 1px solid #FFEBD8;
+    margin: 10px;
+    padding:10px;
+    font-family: Grape Nuts, sans-serif;
+    box-shadow: 5px 5px 15px 5px #E6A4B4;
+}
+.button:hover {transform: scale(1.3);}
+.link:hover {
+	color:coral
+}
+#logbut{
+    width: 50%;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: #FFC7C7;
+    border: 1px solid #FFC7C7;
+    box-shadow: 5px 5px 15px 5px #E6A4B4;
+    border-radius: 25px;
+    padding: 10px;
+}
+#signupbut{
+    font-family: Dosis, sans-serif;
+    text-decoration: none;
+    line-height:35px;
+}
+#fgpbut{
+    font-family: Dosis, sans-serif;
+    text-decoration: none;
+    line-height:35px;
+}
+.ftr{
+    font-family: Allan, sans-serif;   
+    text-align: center;
+    color: rgb(227, 43, 123);
+    bottom: 0;
+    margin-top: 150px;
+    padding: 25px;
+}
